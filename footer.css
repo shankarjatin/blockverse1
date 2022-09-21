@@ -1,0 +1,11 @@
+footer{
+    overflow:auto;
+    width:  100%;
+height: 30vh;
+background-color:aqua;
+display: inline-block;}
+#foot-el{display: inline-block;}
+.foot-el{display: inline-block;}
+.material-icons-outlined{
+    float: right;
+}
